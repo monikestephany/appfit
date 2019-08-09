@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorlink">#002984</color>
+    <color name="colorBack">#ffa726</color>
+    <color name="colorHeader">#000000</color>
+    <color name="colorText">#000000</color>
+    <color name="colorLabel">#FFFFFF</color>
+    <color name="colorBackTreino">#d7ccc8</color>
+    <color name="colorButton">#c77800</color>
+    <color name="colorCelulaT">#dcdcdc</color>
+    <color name="colorCelulaS">#d3d3d3</color>
+    <color name="colorCelulaD">#cac9c9</color>
+    <color name="colorStatusAberto">#ADD8E6</color>
+    <color name="colorStatusPago">#90EE90</color>
+    <color name="colorStatusVencido">#FF6347</color>
+</resources>
